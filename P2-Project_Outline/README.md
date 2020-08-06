@@ -13,11 +13,17 @@ I want to create a User Login based website that allows people to compare flagsh
 ### Features
 
 •	User login: Users will be able to create accounts and log in to the application. Each user will have a profile page.
+
 •	List All: Lists all available flagship phones and provides data on them
+
 •	List by features: A page that allows you to list phones based on features—example (List phones in order of biggest battery size).
+
 •	Search: Users will be able to search for blog posts containing given text.
+
 •	Comparison: A page that compares different phone statistical/ factual data.
+
 •	Create Review Posts: Users will be able to create new review posts when logged in. New posts may appear in the user’s profile.
+
 •	Purchase Options: Lists pages on which a particular phone can be purchased. May also have pricing information.
 
 ### Technologies
