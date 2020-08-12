@@ -10,6 +10,8 @@ For this assignment, you'll create some initial plans for your project.
 
 Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
 
+![Image of Homepage](https://github.com/oucode2/liftoff-assignments/blob/master/wireframe-images/Home%20Page.png)
+
 ### Project Tracker
 
 https://trello.com/b/ojhl10PL
