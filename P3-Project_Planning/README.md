@@ -16,4 +16,4 @@ https://trello.com/b/ojhl10PL
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+https://github.com/oucode2/flagship-phone-website
