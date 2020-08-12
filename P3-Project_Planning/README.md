@@ -12,6 +12,16 @@ Include at least 3 wireframes here, adding images or files to your repository as
 
 ![Image of Homepage](https://github.com/oucode2/liftoff-assignments/blob/master/wireframe-images/Home%20Page.png)
 
+----------------------------------------------------------------------------------
+
+![Image of Login Page](https://github.com/oucode2/liftoff-assignments/blob/master/wireframe-images/Login%20Page%20Wireframe.png)
+
+----------------------------------------------------------------------------------
+
+![Image of Signup Page](https://github.com/oucode2/liftoff-assignments/blob/master/wireframe-images/Signup%20Page.png)
+
+
+
 ### Project Tracker
 
 https://trello.com/b/ojhl10PL
