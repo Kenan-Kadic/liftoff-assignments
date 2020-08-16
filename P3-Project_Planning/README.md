@@ -32,4 +32,4 @@ https://trello.com/b/ojhl10PL
 
 ### Project Repo Link
 
-https://github.com/oucode2/flagship-phone-website
+https://github.com/Kenan-Kadic/flagship-phone-website
