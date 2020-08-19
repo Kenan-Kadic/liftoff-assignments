@@ -17,7 +17,7 @@ Home Page
 ----------------------------------------------------------------------------------
 Login Page
 
-![Image of Login Page](https://github.com/oucode2/liftoff-assignments/blob/master/wireframe-images/Login%20Page%20Wireframe.png)
+![Image of Login Page](https://github.com/Kenan-Kadic/liftoff-assignments/blob/master/wireframe-images/Login%20Page.png)
 
 ----------------------------------------------------------------------------------
 Signup Page
