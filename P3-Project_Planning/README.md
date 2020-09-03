@@ -15,7 +15,7 @@ Login Page
 ![Image of Login Page](https://github.com/Kenan-Kadic/liftoff-assignments/blob/master/wireframe-images/Login%20Page.png)
 
 ----------------------------------------------------------------------------------
-Signup Page
+Register Page
 
 ![Image of Signup Page](https://github.com/oucode2/liftoff-assignments/blob/master/wireframe-images/Signup%20Page.png)
 
@@ -40,7 +40,7 @@ Reviews Page
 ![Image of Reviews Page](https://github.com/Kenan-Kadic/liftoff-assignments/blob/master/wireframe-images/Reviews%20Page.png)
 
 ----------------------------------------------------------------------------------
-Favorites Page
+Add Page
 
 ![Image of Favorites Page](https://github.com/Kenan-Kadic/liftoff-assignments/blob/master/wireframe-images/Favorites%20Page.png)
 
