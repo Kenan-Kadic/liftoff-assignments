@@ -14,7 +14,7 @@ I want to create a User Login based website that allows people to compare flagsh
 
 •	User login: Users will be able to create accounts and log in to the application. Each user will have a profile page.
 
-•	Signup: Users will be able to sign up and create accounts.
+•	Register: Users will be able to sign up and create accounts.
 
 •	Home Page: will have info for each phone brand.
 
@@ -22,7 +22,9 @@ I want to create a User Login based website that allows people to compare flagsh
 
 •	Search: Users will be able to search for blog posts containing given text.
 
-•	Favorites: A page that allows you to make a list of your favorite phones.
+•	Add: A page that allows user to make add his own phones to list.
+
+•	Admin: A page that allows Administrator to make additions to Mysql database.
 
 •	Reviews: Users will be able to create new review posts when logged in. New posts may appear in the user’s profile.
 
