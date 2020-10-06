@@ -22,15 +22,9 @@ I want to create a User Login based website that allows people to compare flagsh
 
 •	Search: Users will be able to search for blog posts containing given text.
 
-•	Add: A page that allows user to make add his own phones to list.
-
 •	Admin: A page that allows Administrator to make additions to Mysql database.
 
-•	Reviews: Users will be able to create new review posts when logged in. New posts may appear in the user’s profile.
-
-•	Purchase: Lists pages on which a particular phone can be purchased. May also have pricing information.
-
-•	Logout: Users will be able to Logout.
+••	Logout: Users will be able to Logout.
 
 ### Technologies
 
