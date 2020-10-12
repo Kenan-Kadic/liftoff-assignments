@@ -33,7 +33,7 @@ Logout: Users will be able to log out.
 •	Spring Boot
 •	MySQL
 •	Hibernate
-•	Thymeleaf templates
+•	Thymeleaf
 
 ### What I'll Have to Learn
 
