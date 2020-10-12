@@ -8,23 +8,24 @@ For this assignment, you will submit a high-level outline of your project. This 
 
 ### Overview
 
-I want to create a User Login based website that allows people to compare flagship phone features/specifications, search for flagship phones by features, write reviews on phones, and examine purchase options. If I had to put it in the context of a user story, I would say as a consumer, I want to research and compare flagship phones by their features, in order to locate the perfect flagship phone for me.
+I want to create a User Login based website that allows people to compare flagship phone features/specifications, list flagship phones by features and search for flagship phones. If I had to put it in the context of a user story, I would say as a consumer, I want to research and compare flagship phones by their features, in order to locate the perfect flagship phone for me.
 
 ### Features
 
-•	User login: Users will be able to create accounts and log in to the application. Each user will have a profile page.
+Login: Users will be able to log in to their accounts.
 
-•	Register: Users will be able to sign up and create accounts.
+Register: Users will be able to sign up and create new accounts.
 
-•	Home Page: will have info for each phone brand.
+Home: Page will display info for each phone brand.
 
-•	List: Lists all available flagship phones and provides data on them. can also list by features.
+List: Page will list all available flagship phones and provides data on them. 
 
-•	Search: Users will be able to search for blog posts containing given text.
+Search: Users will be able to search phones by features.
 
-•	Admin: A page that allows Administrator to make additions to Mysql database.
+Admin Page: Administrator will be able to add new phones.
 
-••	Logout: Users will be able to Logout.
+Logout: Users will be able to log out.
+
 
 ### Technologies
 
@@ -36,9 +37,9 @@ I want to create a User Login based website that allows people to compare flagsh
 
 ### What I'll Have to Learn
 
-I will have to learn how to allow users to create review posts.	
-I will also have to learn how to store profile data.
-Lastly, I will have to learn how to allow customers to see where they can purchase a specific phone.
+I have to learn how to display phones on separate pages based on brand.
+I have to learn how to add photos to my project. 
+Lastly, I will have to learn how to store new types of data in MySQL.
 
 ### Project Tracker
 
